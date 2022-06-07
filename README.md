@@ -4,7 +4,7 @@
 
 - date of birth: 01/04/2000
 
-- University: Duy Tan University
+- University: SupremeTech
 
-- City: Đà Nẵng
+- City: Fontend
 
